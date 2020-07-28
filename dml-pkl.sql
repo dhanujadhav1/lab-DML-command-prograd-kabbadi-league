@@ -39,4 +39,7 @@
 
 --19. Delete from player
 
---20. Delete from outcome
+--20. Delete from out
+select * from city;
+
+
